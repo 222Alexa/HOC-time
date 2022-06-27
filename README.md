@@ -23,3 +23,5 @@
 ---
 
 [GH-Pages](https://222alexa.github.io/HOC-time/)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/vgatue236l47ej5v/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/hoc-time/branch/main)
